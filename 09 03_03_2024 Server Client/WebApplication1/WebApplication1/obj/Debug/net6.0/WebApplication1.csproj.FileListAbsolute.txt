@@ -1,0 +1,54 @@
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\ruppin\Desktop\IE_React_2023-2024\08 25_02_2024 Context\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\bin\Debug\net6.0\appsettings.json
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.exe
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.deps.json
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.runtimeconfig.json
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.dll
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\bin\Debug\net6.0\WebApplication1.pdb
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.AssemblyInfo.cs
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\obj\Debug\net6.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.dll
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\obj\Debug\net6.0\refint\WebApplication1.dll
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
+C:\Users\ruppin\Desktop\IE_React_2023-2024\09 03_03_2024 Server Client\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
